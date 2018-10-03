@@ -1,2 +1,5 @@
 # gridfw-monitor
-app monitor for GridFw
+This is a monitor to GridFW framework
+
+
+Documentation will be added very soon
